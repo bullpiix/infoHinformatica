@@ -19,7 +19,7 @@ git commit -m '[mensaje]'
 ```
 git push -u origin [nombreRama]
 ```
--guardar credenciales 
+- guardar credenciales 
 
 ```
 git config --global credential.helper store
